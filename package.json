@@ -1,0 +1,23 @@
+{
+  "name": "web-alina-app",
+  "version": "1.0.0",
+  "description": "My first application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alinka17/web-alina-app.git"
+  },
+  "keywords": [
+    "web",
+    "app"
+  ],
+  "author": "Alina Rosca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alinka17/web-alina-app/issues"
+  },
+  "homepage": "https://github.com/Alinka17/web-alina-app#readme"
+}
